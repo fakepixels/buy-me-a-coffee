@@ -14,15 +14,15 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`npm create o
 Start implementing today. [Get started](https://docs.onchainkit.com/getting-started)
 
 
-Locally run
-# Install bun in case you don't have it
-curl -fsSL https://bun.sh/install | bash
+## Locally run
+Install bun in case you don't have it
+```curl -fsSL https://bun.sh/install | bash```
 
-# Install packages
-bun i
+Install packages
+```bun i```
 
-# Run Next app
-bun run dev
+Run Next app
+```bun run dev```
 
-### License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
