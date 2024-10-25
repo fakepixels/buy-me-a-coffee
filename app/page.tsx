@@ -17,15 +17,15 @@ export default function App() {
           <div className="flex justify-center mb-2">
            <h1 className="text-5xl font-bold">Mochi Latte</h1>
           </div>
-          <p className="text-center text-xl mb-6 text-slate-400">
-            $3.00
+          <p className="text-center text-xl mb-4 text-slate-400">
+            $0.99
           </p>
           <div className="flex justify-center items-center w-full mb-6">
             <CheckoutComponent />
           </div>
           <div className="flex justify-center items-center w-full">
             <p className="text-center text-lg mb-6 text-slate-400">
-            The future of payments is powered by coffee. <br />
+            Only coffee onchain can be this cheap. <br />
             No gas. No crypto jargon. <br />
             Instant settlement. Global reach. <br />
             Fully customizable. 
